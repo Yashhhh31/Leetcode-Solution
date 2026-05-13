@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Hash Table
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
+## Prefix Sum
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->
