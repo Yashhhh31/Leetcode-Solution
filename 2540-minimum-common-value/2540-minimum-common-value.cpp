@@ -4,25 +4,14 @@ public:
         int n = nums1.size();
         int m = nums2.size();
 
-        for(int i=0; i<n; i++){
-            int target = nums1[i];
+        int i = 0; 
+        int j = 0;
 
-            int start = 0;
-            int end = m-1;
-            
-            while(start <= end){
-                int mid = start + (end - start)/2;
+        while(i < n && j < m){
+            if(nums1[i] == nums2[j]) return nums1[i];
 
-                if(nums2[mid] == target){
-                    return target;
-                }
-
-                if(nums2[mid] > target){
-                    end = mid-1;
-                }else{
-                    start = mid+1;
-                }
-            }
+            if(nums1[i] < nums2[j]) i++;
+            else j++;
         }
 
         return -1;
