@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2784-check-if-array-is-good) |
+| [3093-longest-common-suffix-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3093-longest-common-suffix-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -79,8 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1871-jump-game-vii) |
+| [3093-longest-common-suffix-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3093-longest-common-suffix-queries) |
 ## Sliding Window
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1871-jump-game-vii) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
