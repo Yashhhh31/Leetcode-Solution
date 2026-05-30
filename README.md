@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2784-check-if-array-is-good) |
 | [3093-longest-common-suffix-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3161-block-placement-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3161-block-placement-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3093-longest-common-suffix-queries) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
