@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1840-maximum-building-height](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
