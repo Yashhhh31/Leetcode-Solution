@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -144,4 +148,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
