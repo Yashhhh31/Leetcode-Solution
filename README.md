@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2063-vowels-of-all-substrings) |
 | [3093-longest-common-suffix-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3838-weighted-word-mapping) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1871-jump-game-vii) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Trie
 |  |
 | ------- |
