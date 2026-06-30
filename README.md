@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1340-jump-game-v](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1871-jump-game-vii) |
+| [2063-vowels-of-all-substrings](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2063-vowels-of-all-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2063-vowels-of-all-substrings](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2063-vowels-of-all-substrings) |
 | [3093-longest-common-suffix-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1840-maximum-building-height](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1840-maximum-building-height) |
+| [2063-vowels-of-all-substrings](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2063-vowels-of-all-substrings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Linked List
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
