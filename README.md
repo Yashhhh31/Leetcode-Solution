@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3620-network-recovery-pathways](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1871-jump-game-vii) |
 | [2063-vowels-of-all-substrings](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2063-vowels-of-all-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3620-network-recovery-pathways](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3161-block-placement-queries) |
+| [3620-network-recovery-pathways](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Depth-First Search
 |  |
@@ -203,12 +206,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
