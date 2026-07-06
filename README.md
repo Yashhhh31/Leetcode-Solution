@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2553-separate-the-digits-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1914-cyclically-rotating-a-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3614-process-string-with-special-operations-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
