@@ -2,7 +2,6 @@ class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
         int n = intervals.size();
-        vector<vector<int>> result;
 
         auto lambda = [&](vector<int> &a,vector<int>&b){
             if(a[0] == b[0]){
@@ -13,17 +12,16 @@ public:
         };
 
         sort(intervals.begin(), intervals.end(),lambda);
-        result.push_back(intervals[0]);
+        int maxEnd = 0;
+        int cnt = 0;
 
         for(vector<int>& v : intervals){
-            int val = result.back()[1];
-            if(val >= v[1]){
-                continue;
+            if(v[1] > maxEnd){
+                maxEnd = v[1];
+                cnt++;
             }
-
-            result.push_back(v);
         }
 
-        return result.size();
+        return cnt;;
     }
 };
