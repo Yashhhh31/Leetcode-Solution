@@ -34,6 +34,8 @@ public:
             i++;
         }
 
+        pow10[i] = pow;
+
         for(vector<int>& q : queries){
             int l = q[0];
             int r = q[1];
