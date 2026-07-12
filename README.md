@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0875-koko-eating-bananas](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1288-remove-covered-intervals](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1306-jump-game-iii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0875-koko-eating-bananas](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [2540-minimum-common-value](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3161-block-placement-queries) |
