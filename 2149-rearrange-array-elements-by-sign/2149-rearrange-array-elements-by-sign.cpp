@@ -3,17 +3,19 @@ public:
     vector<int> rearrangeArray(vector<int>& nums) {
         int n = nums.size();
 
-        int l = 0;
-        int r = 0;
+        int positive = 0;
+        int negative = 1;
 
-        vector<int> result;
+        vector<int> result(n);
 
-        while(result.size() < n){
-            while (nums[l] < 0) l++;
-            result.push_back(nums[l++]);
-
-            while (nums[r] > 0) r++;
-            result.push_back(nums[r++]);
+        for(int i=0; i<n; i++){
+            if(nums[i] > 0){
+                result[positive] = nums[i];
+                positive += 2;
+            }else{
+                result[negative] = nums[i];
+                negative += 2;
+            }
         }
 
         return result;
