@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [1840-maximum-building-height](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1840-maximum-building-height) |
 | [2063-vowels-of-all-substrings](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2063-vowels-of-all-substrings) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
