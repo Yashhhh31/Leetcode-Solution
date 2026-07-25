@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0743-network-delay-time](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
