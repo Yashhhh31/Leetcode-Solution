@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [1306-jump-game-iii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1306-jump-game-iii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1871-jump-game-vii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Bit Manipulation
@@ -359,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0319-bulb-switcher) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
