@@ -1,51 +1,73 @@
 class Solution {
 public:
-    int n,m;
-    int cnt = 0;
-    vector<vector<int>> direction = {{1,0}, {0,1}, {-1,0}, {0, -1}};
-    vector<vector<bool>> visited;
 
-    void solve(vector<vector<char>>& grid, int i, int j){
-        queue<pair<int,int>> q;
-        q.push({i,j});
-        visited[i][j] = true;
+    vector<int> parent;
+    vector<vector<int>> direction = {{1,0}, {0,1}};
 
-        while(!q.empty()){
-            pair<int,int> p = q.front();
-            q.pop();
+    int find(int x){
+        if(parent[x] == x){
+            return x;
+        }
 
-            for(vector<int>& v : direction){
-                int new_i = p.first + v[0];
-                int new_j = p.second + v[1];
+        return parent[x] = find(parent[x]);
+    }
 
-                if(new_i < 0 || new_i >= m || new_j < 0 || new_j >= n || grid[new_i][new_j] == '0')
-                    continue;
+    int unite(int x, int y){
 
-                if(!visited[new_i][new_j]){
-                    q.push({new_i,new_j});
-                    visited[new_i][new_j] = true;
+        int px = find(x);
+        int py = find(y);
+
+        if(px == py){
+            return false;
+        }
+
+        parent[py] = px;
+
+        return true;
+    }
+
+    
+
+    int numIslands(vector<vector<char>>& grid) {
+        int m = grid.size();
+        int n = grid[0].size();
+        parent.resize(m*n);
+        int island = 0;
+
+        for(int i=0; i<m*n; i++){
+            parent[i] = i;
+        }
+
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                if(grid[i][j] == '1'){
+                    island++;
                 }
             }
         }
 
-        cnt++;
-    }
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                if(grid[i][j] == '1'){
+                    int idx1 = i * n + j;
 
-    int numIslands(vector<vector<char>>& grid) {
-        m = grid.size();
-        n = grid[0].size();
+                    for(auto& v : direction){
+                        int ni = i + v[0];
+                        int nj = j + v[1];
 
-        visited.assign(m,vector<bool>(n, false));
+                        if(ni < m && nj < n && grid[ni][nj] == '1'){
+                            int idx2 = ni * n +nj;
 
-       for(int i=0; i<m; i++){
-        for(int j=0; j<n; j++){
-            if(grid[i][j] == '1' && visited[i][j] == false){
-                solve(grid,i,j);
+                            if(unite(idx1 , idx2)){
+                                island--;
+                            }
+                        }
+                    }
+
+                }
             }
         }
-       }
 
-       return cnt;
-
+        return island;
     }
 };
