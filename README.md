@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0523-continuous-subarray-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [1306-jump-game-iii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1306-jump-game-iii) |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [1631-path-with-minimum-effort](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
