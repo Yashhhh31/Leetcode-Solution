@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [1840-maximum-building-height](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1840-maximum-building-height) |
+| [1922-count-good-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1922-count-good-numbers) |
 | [2063-vowels-of-all-substrings](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2063-vowels-of-all-substrings) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -399,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
