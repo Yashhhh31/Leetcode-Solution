@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1250-check-if-it-is-a-good-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1871-jump-game-vii) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0319-bulb-switcher) |
 | [0523-continuous-subarray-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1492-the-kth-factor-of-n) |
 | [1840-maximum-building-height](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1840-maximum-building-height) |
@@ -409,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1922-count-good-numbers) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
