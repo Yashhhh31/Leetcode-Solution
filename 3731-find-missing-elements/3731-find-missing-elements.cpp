@@ -3,18 +3,16 @@ public:
     vector<int> findMissingElements(vector<int>& nums) {
         int n =nums.size();
 
-        sort(nums.begin(), nums.end());
+        unordered_set<int> st(nums.begin(), nums.end());
+
+        int maxEl = *max_element(begin(nums), end(nums));
+        int minEl = *min_element(begin(nums), end(nums));
 
         vector<int> result;
 
-        for(int i=1; i<n; i++){
-            if(nums[i-1] != nums[i]-1){
-                int cnt = abs(nums[i-1] - nums[i]) - 1;
-                int inc = 1;
-                while(cnt--){
-                    result.push_back(nums[i-1] + inc);
-                    inc++;
-                }
+        for(int i=minEl; i<maxEl; i++){
+            if(!st.count(i)){
+                result.push_back(i);
             }
         }
 
