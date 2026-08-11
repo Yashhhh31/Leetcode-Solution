@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1914-cyclically-rotating-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0319-bulb-switcher) |
 | [0523-continuous-subarray-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0258-add-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1492-the-kth-factor-of-n) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
