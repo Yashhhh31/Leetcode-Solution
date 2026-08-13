@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2126-destroying-asteroids](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2063-vowels-of-all-substrings) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [3093-longest-common-suffix-queries](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -462,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0456-132-pattern) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
