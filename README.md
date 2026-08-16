@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -473,5 +475,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
