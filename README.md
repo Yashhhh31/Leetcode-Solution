@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1345-jump-game-iv) |
+| [1563-stone-game-v](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1340-jump-game-v) |
+| [1563-stone-game-v](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1871-jump-game-vii) |
 | [2063-vowels-of-all-substrings](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2063-vowels-of-all-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1492-the-kth-factor-of-n) |
+| [1563-stone-game-v](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1922-count-good-numbers) |
 | [2063-vowels-of-all-substrings](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2063-vowels-of-all-substrings) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1563-stone-game-v) |
 ## Manacher
 |  |
 | ------- |
