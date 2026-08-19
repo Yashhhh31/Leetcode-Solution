@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0523-continuous-subarray-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0994-rotting-oranges) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
+| [0542-01-matrix](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0743-network-delay-time) |
