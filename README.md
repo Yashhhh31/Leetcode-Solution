@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0523-continuous-subarray-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [1345-jump-game-iv](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1345-jump-game-iv) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0433-minimum-genetic-mutation](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0127-word-ladder](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0433-minimum-genetic-mutation](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -507,5 +510,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
