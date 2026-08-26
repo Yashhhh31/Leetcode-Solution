@@ -24,21 +24,21 @@ public:
 
     unordered_map<Node*,Node*> mp;
 
-    void dfs(Node*node, Node* cloneNode){
+    // void dfs(Node*node, Node* cloneNode){
 
-        for(Node* v : node->neighbors){
-            if(mp.find(v) == mp.end()){
-                Node* clone = new Node(v->val);
-                cloneNode->neighbors.push_back(clone);
-                mp[v] = clone;
+    //     for(Node* v : node->neighbors){
+    //         if(mp.find(v) == mp.end()){
+    //             Node* clone = new Node(v->val);
+    //             cloneNode->neighbors.push_back(clone);
+    //             mp[v] = clone;
 
-                dfs(v, clone);
-            }else{
-                cloneNode->neighbors.push_back(mp[v]);
-            }
-        }
+    //             dfs(v, clone);
+    //         }else{
+    //             cloneNode->neighbors.push_back(mp[v]);
+    //         }
+    //     }
 
-    }
+    // }
     Node* cloneGraph(Node* node) {
 
         if(!node){
@@ -48,7 +48,28 @@ public:
         Node* cloneNode = new Node(node->val);
         mp[node] = cloneNode;
 
-        dfs(node, cloneNode);
+        queue<Node*> que;
+        que.push(node);
+
+        while(!que.empty()){
+            Node* og = que.front();
+            Node* curClone = mp[og];
+            que.pop();
+
+            for(Node* v : og->neighbors){
+
+                if(mp.find(v) == mp.end()){
+                    Node* clone = new Node(v->val);
+                    curClone->neighbors.push_back(clone);
+                    mp[v] = clone;
+                    que.push(v);
+
+                }else{
+                    curClone->neighbors.push_back(mp[v]);
+                }
+
+            }
+        }
 
         return cloneNode;
     }
