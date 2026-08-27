@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Directed Acyclic Graph
 |  |
