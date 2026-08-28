@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0433-minimum-genetic-mutation](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0695-max-area-of-island) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1631-path-with-minimum-effort](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
