@@ -1,40 +1,48 @@
 class Solution {
 public:
+    vector<int> parent;
 
-    char dfs(unordered_map<char,vector<char>>& adj, char cur, vector<int>& visited){
-        char smallest = cur;
-        visited[cur - 'a'] = true;
-
-        for(char& child : adj[cur]){
-
-            if(visited[child - 'a']) continue;
-
-            smallest = min(smallest, dfs(adj, child, visited));
+    int find(int x){
+        if(parent[x] == x){
+            return x;
         }
 
-        return smallest;
+        return parent[x] = find(parent[x]);
+    }
+
+    void unite(int a, int b){
+        a = find(a);
+        b = find(b);
+
+        if(a == b)
+            return;
+        
+        if(a < b){
+            parent[b] = a;
+        }else{
+            parent[a] = b;
+        }
     }
 
     string smallestEquivalentString(string s1, string s2, string baseStr) {
-        
-        int n = s1.length();
+        int n = s1.size();
+        parent.resize(26);
 
-        unordered_map<char,vector<char>> adj;
+        for(int i=0; i<26; i++){
+            parent[i] = i;
+        }
 
         for(int i=0; i<n; i++){
-            int u = s1[i];
-            int v = s2[i];
+            int a = s1[i] - 'a';
+            int b = s2[i] - 'a';
 
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+            unite(a,b);
         }
 
         string result = "";
 
         for(char& ch : baseStr){
-            vector<int> visited(26,false);
-
-            result += dfs(adj, ch, visited);
+            result += char(find(ch - 'a') + 'a');
         }
 
         return result;
