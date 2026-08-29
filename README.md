@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2421-number-of-good-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2421-number-of-good-paths) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2540-minimum-common-value](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2553-separate-the-digits-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2421-number-of-good-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2421-number-of-good-paths) |
 | [2784-check-if-array-is-good](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2421-number-of-good-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2421-number-of-good-paths) |
 | [2540-minimum-common-value](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1631-path-with-minimum-effort](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
+| [2421-number-of-good-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0743-network-delay-time](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
+| [2421-number-of-good-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -448,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2421-number-of-good-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2421-number-of-good-paths) |
 ## Binary Tree
 |  |
 | ------- |
