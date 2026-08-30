@@ -1,34 +1,13 @@
 class Solution {
 public:
 
-    vector<int> parent;
-    vector<int> rank;
+    void dfs(unordered_map<int,vector<int>>& adj, int u, vector<bool>& visited){
+        visited[u] = true;
 
-    int find(int x){
-        
-        if(parent[x] == x){
-            return x;
-        }
-
-        return parent[x] = find(parent[x]);
-
-    }
-
-    void Union(int a, int b){
-
-        int a_parent = find(a);
-        int b_parent = find(b);
-
-        if(a_parent == b_parent)
-            return;
-        
-        if(rank[a_parent] > rank[b_parent]){
-            parent[b_parent] = a_parent;
-        }else if(rank[a_parent] < rank[b_parent]){
-            parent[a_parent] = b_parent;
-        }else{
-            parent[a_parent] = b_parent;
-            rank[b_parent]++;
+        for(int& v : adj[u]){
+            if(!visited[v]){
+                dfs(adj, v, visited);
+            }
         }
     }
 
@@ -49,24 +28,27 @@ public:
         
         int n = strs.size();
 
-        parent.resize(n);
-        rank.resize(n);
-
-        for(int i=0; i<n; i++){
-            parent[i] = i;
-        }
-
-        int component = n;
+        unordered_map<int,vector<int>> adj;
 
         for(int i=0; i<n; i++){
             for(int j=i+1; j<n; j++){
-                if(isSimilar(strs[i], strs[j]) && find(i) != find(j)){
-                    Union(i,j);
-                    component--;
+                if(isSimilar(strs[i],strs[j])){
+                    adj[i].push_back(j);
+                    adj[j].push_back(i);
                 }
             }
         }
 
-        return component;
+        int d = 0;
+        vector<bool> visited(n,false);
+
+        for(int i=0; i<n; i++){
+            if(!visited[i]){
+                dfs(adj, i, visited);
+                d++;
+            }
+        }
+
+        return d;
     }
 };
