@@ -18,6 +18,10 @@ public:
         for(int i=0; i<m; i++){
             if(s1[i] != s2[i]){
                 cnt++;
+
+                if(cnt > 2){
+                    return false;
+                }
             }
         }
 
