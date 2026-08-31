@@ -10,7 +10,6 @@ public:
         visited.insert(beginWord);
         int cnt = 1;
 
-        string alpha = "abcdefghijklmnopqrstuvwxyz";
 
         while(!que.empty()){
             int size = que.size();
@@ -23,7 +22,7 @@ public:
                     return cnt;
                 }
 
-                for(char ch : alpha){
+                for(char ch = 'a'; ch <= 'z'; ch++){
                     for(int i=0; i<word.length(); i++){
                         string nextWord = word;
                         nextWord[i] = ch;
