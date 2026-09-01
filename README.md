@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0839-similar-string-groups) |
 | [1306-jump-game-iii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1306-jump-game-iii) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1345-jump-game-iv) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0743-network-delay-time](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2421-number-of-good-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
