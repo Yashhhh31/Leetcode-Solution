@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
 ## Counting Sort
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Bidirectional Search
