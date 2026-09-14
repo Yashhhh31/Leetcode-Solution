@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1732-find-the-highest-altitude](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1840-maximum-building-height](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1840-maximum-building-height) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1840-maximum-building-height](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0839-similar-string-groups) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1631-path-with-minimum-effort](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2421-number-of-good-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2421-number-of-good-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
