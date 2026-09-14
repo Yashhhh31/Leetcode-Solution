@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0839-similar-string-groups](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0839-similar-string-groups) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1631-path-with-minimum-effort](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2421-number-of-good-paths](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2421-number-of-good-paths) |
