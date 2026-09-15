@@ -38,6 +38,14 @@ public:
 
     int maxPalindromes(string s, int k) {
         n = s.length();
+
+        if(k > n)
+            return 0;
+        
+
+        if(k == 1)
+            return n;
+        
         dp.assign(n, vector<int>(n, -1));
 
         return solve(s, 0, k-1, k);
