@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0877-stone-game) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1922-count-good-numbers) |
 ## Game Theory
 |  |
