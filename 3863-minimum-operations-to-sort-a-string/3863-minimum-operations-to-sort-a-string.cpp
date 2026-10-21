@@ -11,19 +11,26 @@ public:
         if(n == 2)
             return -1;
 
-        char min_ele = *min_element(begin(s), end(s));
-        char max_ele = *max_element(begin(s), end(s));
+        int min_ele =  0, max_ele = 0;
 
-        if(s[0] == min_ele || s[n-1] == max_ele){
+        for(int i=1; i<n; i++){
+
+            if(s[i] >= s[max_ele]){
+                max_ele = i;
+            }
+            
+            if(s[i] < s[min_ele]){
+                min_ele = i;
+            }
+        }
+
+        if(min_ele == 0 || max_ele == n-1){
             return 1;
         }
 
-        char min_middle = *min_element(begin(s)+1 , end(s)-1);
-        char max_middle = *max_element(begin(s)+1 , end(s)-1);
-
-        if(s[0] > max_middle && s[n-1] < min_middle)
+        if(min_ele == n-1 && max_ele == 0){
             return 3;
-
+        }
 
         return 2;
 
