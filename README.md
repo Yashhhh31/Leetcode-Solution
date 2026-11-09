@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1840-maximum-building-height](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1840-maximum-building-height) |
+| [1882-process-tasks-using-servers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1882-process-tasks-using-servers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1882-process-tasks-using-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3620-network-recovery-pathways) |
