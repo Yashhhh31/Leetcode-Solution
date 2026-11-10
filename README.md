@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0456-132-pattern) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/1882-process-tasks-using-servers) |
@@ -598,4 +602,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Yashhhh31/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
